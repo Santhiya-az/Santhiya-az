@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Santhiya P! 👋  
+# Hi, I'm Santhiya  👋  
 
 🚀 **Software Engineer | Teamcenter Developer & Tester | Azure Certified (AZ-104)**  
 💻 **Skilled in:** Teamcenter, Java, SQL, BMIDE, Manual Testing  
